@@ -4,7 +4,7 @@ A lightweight Chrome extension that helps you save and manage important moments 
 
 ## Overview
 
-YoutubeBookmark allows you to easily bookmark timestamps while watching YouTube videos. Whether you're following a tutorial, studying educational content, or simply want to remember your favorite moments, this extension provides a seamless way to mark and return to specific points in any video.
+YoutubeBookmark allows you to bookmark timestamps while watching YouTube videos easily. Whether you're following a tutorial, studying educational content, or simply want to remember your favorite moments, this extension provides a seamless way to mark and return to specific points in any video.
 
 ## Key Features
 
@@ -17,19 +17,16 @@ YoutubeBookmark allows you to easily bookmark timestamps while watching YouTube 
 
 ### Manual Setup
 
-1. **Clone the Repository**:
-   ```
-   git clone https://github.com/Kun-Alexandru/ytb-bookmark.git
-   ```
+1. **Clone the Repository**
 
 2. **Open Chrome Extensions Settings**:
    - Navigate to `chrome://extensions/`
 
-3. **Enable Developer Mode**:
-   - Toggle it on in the top-right corner
+   3. **Enable Dev Mode**:
+   - It in the top-right corner
 
-4. **Load the Unpacked Extension**:
-   - Click "Load unpacked" and select the project folder
+4. **Load the extension**:
+   - Click "Load unpacked" and select the project folder (it need to be a folder, not a zip)
 
 ## How to Use
 
@@ -95,3 +92,7 @@ YoutubeBookmark allows you to easily bookmark timestamps while watching YouTube 
 - JavaScript, HTML and CSS
 - Chrome Extensions API – Manifest V3
 - chrome.storage.sync to save and sync the data
+
+## Reference
+
+Used this video as a referance/tutorial https://www.youtube.com/watch?v=0n809nd4Zu4&t
